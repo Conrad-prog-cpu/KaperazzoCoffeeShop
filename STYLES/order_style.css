@@ -85,11 +85,14 @@
     }
 
     .hot-coffee-1, .scrollbar{
+        flex-direction: column;
+        align-items: center;
         flex: 1;
 
     }
    
 }
+
 
 
 
