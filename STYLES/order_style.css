@@ -84,13 +84,19 @@
     }
     .hot-coffee-1, .place-roder, .scrollbar, .order-total{
         flex: 1;
-        width: 200px;
-
+        width: 350px;
     }
-
+    .scrollbar{
+        flex-direction: row;
+        align-items: center;
+    }
+    .menu-hot-coffee{
+        flex: 1;
+    }
 
    
 }
+
 
 
 
