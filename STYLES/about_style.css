@@ -26,12 +26,11 @@
         flex-direction: column;
     }
     .location-address{
-        width: 400px;
+        flex: 1;
     }
 
     .map{
-        width: 500px;
-        height: 400px;
+        flex: 1;
     }
 
     
