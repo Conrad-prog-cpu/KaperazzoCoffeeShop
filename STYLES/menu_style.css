@@ -33,7 +33,7 @@
     .menu-hot-coffee{
         flex-direction: column;
         align-items: center;
-        width: 450px;
+        flex: 1;
         
     }
 }
@@ -53,4 +53,5 @@
 
 .hot-coffee{
     margin-top: 50px;
+
 }
